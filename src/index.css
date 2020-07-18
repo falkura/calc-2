@@ -1,0 +1,43 @@
+input {
+  width: 135px;
+  height: 20px;
+  padding-left: 3px;
+  background-color: #3cbc8d;
+  color: white;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+input:hover {
+  background-color: #37a97f;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  font-family: "Consolas";
+}
+
+.butt {
+  width: 35px;
+  height: 30px;
+  color: white;
+  background-color: #3cbc8d;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+.butt:hover {
+  background-color: #37a97f;
+}
+
+.butt:active {
+  background-color: #2f926e;
+  outline: none;
+}
+
+.butt:focus {
+  outline: none;
+}
