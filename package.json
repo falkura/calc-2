@@ -2,7 +2,7 @@
   "name": "pp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://falkura.github.io/calc",
+  "homepage": "https://falkura.github.io/calc-2/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
